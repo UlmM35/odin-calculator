@@ -29,5 +29,3 @@ function operate(operation, firstNumber, secondNumber) {
         return divide(firstNumber, secondNumber) 
     }
 }
-const addedNums = operate("+", 5, 9);
-console.log(addedNums);
